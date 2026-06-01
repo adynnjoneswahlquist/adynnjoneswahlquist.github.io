@@ -1,4 +1,7 @@
 ## Adynn Jones-Wahlquist
+
+![Adynn](https://github.com/adynnjoneswahlquist/adynnjoneswahlquist.github.io/blob/main/img/GITHUBPROFILEPIC.jpg?raw=true)
+
 Hello! My name is Adynn, I am a current Biology student at Agnes Scott College, and am currently researching 
 Genetic and Structural Analysis of Fire Ant Nest Architecture in and around Metro Atlanta with Dr. Kovacs in partnership with
 Agnes Scott College and Emory University.
